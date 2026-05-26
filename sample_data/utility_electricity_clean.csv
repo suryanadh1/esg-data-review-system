@@ -1,0 +1,16 @@
+meter_id,facility_name,kwh_usage,billing_period,tariff_type
+MTR-LON-001,Breathe ESG London HQ,284500,2023-01,Business Standard
+MTR-LON-002,Breathe ESG London Data Centre,1820000,2023-01,High Voltage
+MTR-MAN-001,Manchester Office,142300,2023-01,Business Standard
+MTR-MAN-002,Manchester Warehouse,388700,2023-01,Industrial
+MTR-EDI-001,Edinburgh Office,98200,2023-01,Business Standard
+MTR-BIR-001,Birmingham Distribution Centre,512400,2023-02,Industrial
+MTR-LON-001,Breathe ESG London HQ,291200,2023-02,Business Standard
+MTR-LON-002,Breathe ESG London Data Centre,1905000,2023-02,High Voltage
+MTR-MAN-001,Manchester Office,138900,2023-02,Business Standard
+MTR-BRI-001,Bristol Office,76400,2023-02,Business Standard
+MTR-LEE-001,Leeds Office,112800,2023-03,Business Standard
+MTR-LIV-001,Liverpool Warehouse,445600,2023-03,Industrial
+MTR-LON-003,London Retail Store 1,62300,2023-03,Business Economy
+MTR-LON-004,London Retail Store 2,58900,2023-03,Business Economy
+MTR-MAN-002,Manchester Warehouse,401200,2023-03,Industrial

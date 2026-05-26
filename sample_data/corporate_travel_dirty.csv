@@ -1,0 +1,8 @@
+employee_id,from_airport,to_airport,travel_mode,distance_km,hotel_nights,travel_date
+EMP-019,LHR,LAX,flight,-5450,3,2023-04-01
+EMP-020,London,Manchester,car,55000,0,2023-04-03
+EMP-021,LHR,BOM,flight,7200,600,2023-04-07
+EMP-022,LHR,SYD,flight,16993,7,1999-12-15
+EMP-023,London,Leeds,train,305,0,2028-06-01
+EMP-024,LHR,JFK,flight,5540,4,2023-04-10
+EMP-025,Manchester,Birmingham,,140,0,2023-04-15
