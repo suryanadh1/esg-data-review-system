@@ -1,0 +1,16 @@
+company_name,source,year,carbon_emissions,energy_consumption,water_usage,employee_count
+BadData Corp,Bloomberg,1995,25600.5,180000.0,45000.0,164000
+NegativeCarbon Ltd,Reuters,2023,-500.0,95000.0,32000.0,5000
+HugeCarbon Inc,Manual,2023,5000000.0,210000.0,61000.0,50000
+NoEmployees SA,Bloomberg,2023,8000.0,95000.0,28000.0,0
+FutureData LLC,Reuters,2099,12000.0,130000.0,40000.0,10000
+MissingAll Co,Manual,2022,,,, 2000
+HighEnergy GmbH,Bloomberg,2023,20000.0,9000000.0,50000.0,35000
+NegativeWater PLC,Reuters,2023,15000.0,120000.0,-1000.0,8000
+ValidCompany Corp,Bloomberg,2023,18000.5,150000.0,42000.0,95000
+MissingSource Inc,,2023,9500.0,85000.0,31000.0,22000
+ZeroEmployees Ltd,Reuters,2022,7200.0,68000.0,19000.0,-5
+GoodRecord SA,Manual,2023,5200.0,72000.0,25000.0,14000
+MissingYear Corp,Bloomberg,,22000.0,190000.0,55000.0,75000
+AllNulls Inc,Reuters,2023,,,, 1
+CleanEntry PLC,Bloomberg,2023,11200.0,105000.0,38000.0,48000

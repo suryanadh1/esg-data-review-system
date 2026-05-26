@@ -1,0 +1,16 @@
+company_name,source,year,carbon_emissions,energy_consumption,water_usage,employee_count
+Apple Inc,Bloomberg,2023,25600.5,180000.0,45000.0,164000
+Microsoft Corp,Reuters,2023,10500.75,95000.0,32000.0,221000
+Tesla Inc,Bloomberg,2023,15200.0,210000.0,61000.0,127855
+Amazon Inc,Manual,2022,71540.0,450000.0,120000.0,1541000
+Google LLC,Bloomberg,2022,8100.25,110000.0,28000.0,186779
+Meta Platforms,Reuters,2023,3200.5,62000.0,18500.0,86482
+Samsung Electronics,Bloomberg,2021,14800.0,195000.0,72000.0,270000
+Toyota Motor Corp,Reuters,2022,32100.0,280000.0,95000.0,372817
+Unilever PLC,Manual,2023,6700.0,88000.0,41000.0,149000
+Shell PLC,Bloomberg,2023,42000.0,380000.0,105000.0,93000
+BP PLC,Reuters,2022,38500.75,360000.0,98000.0,67000
+Nestle SA,Bloomberg,2023,9800.0,120000.0,55000.0,276000
+HSBC Holdings,Manual,2023,1200.5,22000.0,8000.0,228000
+Siemens AG,Bloomberg,2022,11500.0,140000.0,47000.0,311000
+Nike Inc,Reuters,2023,4200.0,55000.0,21000.0,79000

@@ -1,0 +1,18 @@
+# Render deployment configuration
+# This tells Render how to build and start the Django app.
+# WHY: Without this file, you'd have to set build/start commands manually in the Render dashboard.
+#      Having it in the repo is cleaner and reproducible.
+
+services:
+  - type: web
+    name: esg-backend
+    env: python
+    buildCommand: "pip install -r requirements.txt && python manage.py collectstatic --noinput && python manage.py migrate"
+    startCommand: "gunicorn esg_backend.wsgi:application"
+    envVars:
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DEBUG
+        value: "False"
+      - key: PYTHON_VERSION
+        value: "3.11.0"
